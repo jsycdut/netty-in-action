@@ -8,7 +8,7 @@
   <name>netty-practice</name>
   <url>http://maven.apache.org</url>
   <properties>
-    <netty.version>4.1.12.Final</netty.version>
+    <netty.version>4.1.42.Final</netty.version>
     <junit.version>4.12</junit.version>
   </properties>
   <dependencyManagement>
